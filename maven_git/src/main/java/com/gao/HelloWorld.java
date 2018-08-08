@@ -6,7 +6,9 @@ public class HelloWorld {
 	private String brithday;
 	private String age;
 	private Integer number;
-	
+	private void name() {
+		
+	}
 	public String getAge() {
 		return age;
 	}
