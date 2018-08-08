@@ -4,6 +4,7 @@ public class HelloWorld {
 	private String name;
 	private String pass;
 	private String brithday;
+	private String age;
 	
 	public String getBrithday() {
 		return brithday;
