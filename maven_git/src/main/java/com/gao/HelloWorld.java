@@ -5,7 +5,7 @@ public class HelloWorld {
 	private String pass;
 	private String brithday;
 	private String age;
-	
+	private Integer number;
 	
 	public String getAge() {
 		return age;
