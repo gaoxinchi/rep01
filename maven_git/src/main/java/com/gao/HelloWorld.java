@@ -9,6 +9,12 @@ public class HelloWorld {
 	private void name() {
 		
 	}
+	public Integer getNumber() {
+		return number;
+	}
+	public void setNumber(Integer number) {
+		this.number = number;
+	}
 	public String getAge() {
 		return age;
 	}
