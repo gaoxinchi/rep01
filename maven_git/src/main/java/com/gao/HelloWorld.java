@@ -3,6 +3,7 @@ package com.gao;
 public class HelloWorld {
 	private String name;
 	private String pass;
+	private String brithday;
 	public String getName() {
 		return name;
 	}
