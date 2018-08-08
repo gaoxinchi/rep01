@@ -4,6 +4,13 @@ public class HelloWorld {
 	private String name;
 	private String pass;
 	private String brithday;
+	
+	public String getBrithday() {
+		return brithday;
+	}
+	public void setBrithday(String brithday) {
+		this.brithday = brithday;
+	}
 	public String getName() {
 		return name;
 	}
