@@ -6,6 +6,8 @@ public class HelloWorld {
 	private String brithday;
 	private String age;
 	private Integer number;
+	
+	private Integer id;
 	private void name() {
 		
 	}
