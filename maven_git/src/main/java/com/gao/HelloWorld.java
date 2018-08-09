@@ -4,10 +4,10 @@ public class HelloWorld {
 	private String name;
 	private String pass;
 	private String brithday;
-	private String age;
-	private Integer number;
 	
 	private Integer id;
+	private String age;
+	private Integer number;
 	private void name() {
 		
 	}
